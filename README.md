@@ -1,1 +1,3 @@
-# multiple-linear-regression-frmo-scratch
+# multiple-linear-regression-from-scratch
+
+Predicting the amount of electricity produced with MLR
